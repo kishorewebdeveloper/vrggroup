@@ -405,18 +405,16 @@
     margin-bottom: 5px;
     padding: 0;
     text-align: left;
-    color: rgba(255,255,255,0.5);
+    color: rgb(48 45 45 / 80%);
     font-weight: normal;
     text-transform: capitalize;
     transition: .3s;
 }
 
 .footer .btn.btn-link::before {
-    position: relative;
-    content: "\f105";
-    font-family: "Font Awesome 5 Free";
+    position: relative;   
     font-weight: 900;
-    color: rgba(255,255,255,0.5);
+    color: rgb(48 45 45 / 80%);
     margin-right: 10px;
 }
 
@@ -427,8 +425,8 @@
 }
 
 .footer .btn.btn-square {
-    color: rgba(255,255,255,0.5);
-    border: 1px solid rgba(255,255,255,0.5);
+    color: rgb(48 45 45 / 80%);
+    border: 1px solid rgb(88 81 81 / 50%);
 }
 
 .footer .btn.btn-square:hover {
@@ -476,7 +474,7 @@
   }
 
   .bg-dark {
-    background-color: #383838  !important;
+    background-color: #d7d0d02e  !important;
 }
 
 .slider-content-ul{
@@ -516,4 +514,16 @@
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     background: white;
+}
+.footer-text{
+    color:#3a3a46;
+}
+.mb-s{
+ margin-bottom: 5px;
+}
+.align{
+    text-align: justify;
+}
+.pl-5{
+    padding-left: 85px;
 }
