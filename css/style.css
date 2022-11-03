@@ -405,7 +405,7 @@
     margin-bottom: 5px;
     padding: 0;
     text-align: left;
-    color: rgb(48 45 45 / 80%);
+    color:rgba(255, 255, 255, 0.8);
     font-weight: normal;
     text-transform: capitalize;
     transition: .3s;
@@ -473,9 +473,9 @@
     animation: zoom 20s;
   }
 
-  .bg-dark {
+  /* .bg-dark {
     background-color: #d7d0d02e  !important;
-}
+} */
 
 .slider-content-ul{
     list-style: none;
@@ -513,7 +513,7 @@
     justify-content: space-between;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-    background: white;
+    /* background: white; */
 }
 .footer-text{
     color:#3a3a46;
@@ -526,4 +526,13 @@
 }
 .pl-5{
     padding-left: 85px;
+}
+
+.py-5 {
+    padding-top: 1rem !important;
+    padding-bottom: 0rem !important;
+}
+
+.footer-p{
+    color:rgba(255, 255, 255, 0.8) 
 }
