@@ -690,19 +690,19 @@ ul.nav.red-3>li>a:hover.active {
 }
 .yamm.dark ul.nav > li > a {
 	background-color: #242424;
-	border-bottom: 1px solid #353535;
+	/* border-bottom: 1px solid #353535; */
 }
 .yamm.dark2 ul.nav > li > a {
 	color: #fff;
 	background-color: #161616;
-	border-bottom: 1px solid #353535;
+	/* border-bottom: 1px solid #353535; */
 }
 ul.nav.dark2>li>a:hover.active {
 	color: #fff;
 }
 .yamm.fulldark ul.nav > li > a {
 	background-color: #000;
-	border-bottom: 1px solid #262626;
+	/* border-bottom: 1px solid #262626; */
 }
 .yamm.dark .navbar-nav .dropdown .dropdown-menu {
 	background-color: #242424;
@@ -823,7 +823,7 @@ pre {
 }
 .dropdown-menu {
 	box-shadow: none;
-	border: 1px solid #e4e4e4;
+	/* border: 1px solid #e4e4e4; */
 }
 .navbar-nav > li > .dropdown-menu {
 	border-top-right-radius: 0;
