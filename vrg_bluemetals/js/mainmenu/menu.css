@@ -835,8 +835,8 @@ pre {
 	margin-bottom: 0px;
 }
 .navbar-default {
-	border-color: #e7e7e7;
-	border: none;
+    border-color: #e7e7e7;
+    border: none;
 }
 .list-unstyled a:hover {
 	border-radius: 3px;
