@@ -544,11 +544,18 @@
 }
 .pg{
     font-family: 'Roboto', sans-serif !important; 
-    text-align: justify;
+    /* text-align: justify; */
 }
 .h4{
  font-family: 'Roboto', sans-serif !important;   
 }
 .mt-15{
     margin-top: 15px;
+}
+
+.serivice-carousel{
+    padding: 20px;
+}
+.serivice-carousel p{
+    text-align: justify;
 }
