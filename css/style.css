@@ -556,6 +556,6 @@
 .serivice-carousel{
     padding: 20px;
 }
-.serivice-carousel p{
-    text-align: justify;
+.service-item {
+    box-shadow: 0 0 7px rgb(92 92 92 / 32%);
 }
