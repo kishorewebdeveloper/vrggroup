@@ -3235,14 +3235,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #007bff;
-  border-color: #007bff;
+  color: #ff6f0f;
+  border-color: #ff6f0f;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #ff6f0f;
+  border-color: #ff6f0f;
 }
 
 .btn-outline-primary:focus,
@@ -7603,7 +7603,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #007bff !important;
+  border-color: #ff6f0f !important;
 }
 
 .border-secondary {
@@ -11493,7 +11493,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #007bff !important;
+  color: #ff6f0f !important;
 }
 
 a.text-primary:hover,
@@ -11714,7 +11714,7 @@ body {
   font-size: 14px;
   line-height: 1.8;
   font-weight: normal;
-  color: gray;
+  color: black;
   background: rgba(0, 0, 0, 0.05);
 }
 
@@ -11790,8 +11790,8 @@ h5,
 }
 
 .btn.btn-primary {
-  background: #ff487e;
-  border-color: #ff487e;
+  background: #ff6f0f;
+  border-color: #ff6f0f;
 }
 
 .owl-carousel {
@@ -11869,7 +11869,7 @@ h5,
 }
 
 .owl-carousel .owl-dots .owl-dot.active {
-  background: #ff487e;
+  background: #ff6f0f;
 }
 
 .owl-carousel:hover .owl-nav .owl-prev,
