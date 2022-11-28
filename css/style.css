@@ -821,3 +821,21 @@ a {
 .serivice-carousel p{
     text-align: justify;
 }
+
+.text-white-50 {
+    color: rgb(255 255 255 / 95%) !important;
+}
+
+.project-header {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8)), url(../img/project-header.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.contact-header {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8)), url(../img/contact-us-banner.jpg) center center no-repeat;
+    background-size: cover;
+}
